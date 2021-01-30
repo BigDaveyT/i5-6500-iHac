@@ -29,3 +29,4 @@ macOS Catalina 10.15.7
 
 * USB MAP
 * Fix Sleep
+* Look for AMD GPU to add to setup
