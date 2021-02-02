@@ -11,6 +11,7 @@ macOS Catalina 10.15.7
 * G.Skill Ripjaws V Series 16 GB (2 x 8 GB) DDR4-2133 CL15 Memory
 * NZXT S340 ATX Mid Tower Case
 * 120 GB SSD
+* MSI Radeon RX 480 8 GB GAMING X Video Card
 
 
 ### Kexts Used: ###
@@ -29,4 +30,3 @@ macOS Catalina 10.15.7
 
 * USB MAP
 * Fix Sleep
-* Look for AMD GPU to add to setup
