@@ -23,10 +23,7 @@ macOS Catalina 10.15.7
 * SMCProcessor
 * SMCSuperIO
 * USBInjectAll
+* USBMap
 * VirtualSMC
+* VoodooTSCSync
 * WhateverGreen
-
-### TODO: ###
-
-* USB MAP
-* Fix Sleep
