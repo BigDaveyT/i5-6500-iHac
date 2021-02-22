@@ -1,6 +1,6 @@
 # i5-6500-iHac
 
-Opencore 0.6.5
+OpenCore 0.6.6
 
 macOS Catalina 10.15.7
 
